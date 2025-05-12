@@ -36,9 +36,3 @@ The dataset used in this project is the "Car Evaluation" dataset from the UCI Ma
 
 ## Results
 The model achieves 97.1% accuracy on the test set, demonstrating excellent performance in classifying car acceptability based on the given features. The notebook includes detailed output showing predictions and actual values for each test case.
-
-## Future Improvements
-- Experiment with other classification algorithms (Random Forest, SVM, etc.)
-- Implement feature importance analysis
-- Create a web interface for easy user interaction
-- Deploy as a REST API for integration with other applications
